@@ -1,0 +1,13 @@
+Package: wam
+Type: Package
+Title: Useful tools for econometrics
+Version: 0.1.0
+Author: Toly Osgood
+Maintainer: Toly Osgood <arosgood@email.wm.edu>
+Description: Use this for some more niche econometric tools
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: rio, lmtest, AER, margins, DescTools, sampleSelection
+NeedsCompilation: no
+Packaged: 2019-09-30 19:12:20 UTC; tosgood

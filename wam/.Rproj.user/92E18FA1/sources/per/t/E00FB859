@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570026144452.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1576434582",
+    "id" : "E00FB859",
+    "lastKnownWriteTime" : 1570026650,
+    "last_content_update" : 1570026650405,
+    "path" : "~/Desktop/wam/wam/R/wam.R",
+    "project_path" : "R/wam.R",
+    "properties" : {
+        "cursorPosition" : "15,31",
+        "scrollLine" : "15"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
